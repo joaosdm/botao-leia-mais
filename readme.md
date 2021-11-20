@@ -6,15 +6,15 @@
 <div class="img">
 <ol>
     <li> O botão antes de ser pressionado:</li>
-- - - - - - - - - - - - - - - - - - - - - - - - 
+<br>
     <img src="/SCREENSHOTS/Screenshot1.png">
-</ol>
-<ol>
+<br>
     <li> Ao passar o mouse sobre:</li>
+<br>
     <img src="/SCREENSHOTS/Screenshot2.png">
-</ol>
-<ol>
+<br>
     <li> Ao clicar, mostra-se a resposta:</li>
+<br>
     <img src="/SCREENSHOTS/Screenshot3.png">
 </ol>
 </div>
