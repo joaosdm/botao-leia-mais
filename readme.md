@@ -1,5 +1,3 @@
-<h3>Botão "leia mais"<h3>
-<br>
 <a>O botão foi feito com apenas HTML e CSS. É um projeto super simples,porém, muito útil!</a>
 <br>
 <br>
@@ -8,6 +6,7 @@
 <div class="img">
 <ol>
     <li> O botão antes de ser pressionado:</li>
+- - - - - - - - - - - - - - - - - - - - - - - - 
     <img src="/SCREENSHOTS/Screenshot1.png">
 </ol>
 <ol>
