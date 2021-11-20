@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Botão leia mais</title>
-    </head>
     <body>
         <a>O botão foi feito com apenas HTML e CSS. É um projeto super simples,porém, muito útil!</a>
         <br>
