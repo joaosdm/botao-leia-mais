@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <style>
+            .img{
+                border: none;
+                border-radius: 15px;
+            }
+        </style>
     </head>
     <body>
         <a>O botão foi feito com apenas HTML e CSS. É um projeto super simples,porém, muito útil!</a>
