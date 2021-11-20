@@ -1,11 +1,11 @@
-# O é um projeto super simples,porém, muito útil!
+# O botão é um projeto super simples,porém, muito útil!
 
 **Abaixo você verá imagens do funcionamento do botão**
 
-## O botão antes de ser pressionado
+## O botão antes de ser pressionado:
 <img src="/SCREENSHOTS/Screenshot1.png" height="460" width="820">
 
-## Ao passar o mouse sobre
+## Ao passar o mouse sobre:
 <img src="/SCREENSHOTS/Screenshot2.png" height="460" width="820">
 
 ## Ao clicar, mostra-se a resposta:
