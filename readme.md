@@ -12,15 +12,15 @@
             <ol>
                 <li> O botão antes de ser pressionado:</li>
                 <br>
-                    <img src="/SCREENSHOTS/Screenshot1.png " height="820" width="460">
+                    <img src="/SCREENSHOTS/Screenshot1.png" height="460" width="820">
                 <br>
                 <li> Ao passar o mouse sobre:</li>
                 <br>
-                    <img src="/SCREENSHOTS/Screenshot2.png height="820" width="460"">
+                    <img src="/SCREENSHOTS/Screenshot2.png" height="460" width="820">
                 <br>
                  <li> Ao clicar, mostra-se a resposta:</li>
                 <br>
-                     <img src="/SCREENSHOTS/Screenshot3.png height="820" width="460"">
+                     <img src="/SCREENSHOTS/Screenshot3.png" height="460" width="820">
             </ol>
         </div>
         <p>Usar um arquivo <em>CSS</em> e outro <em>HTML</em> é opcional! Você pode usar apenar um arquivo <em>HTML</em> e dentro dele usar a tag <strong>style</strong> para inserir funções <em>CSS</em>.</P
