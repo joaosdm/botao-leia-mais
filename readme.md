@@ -1,6 +1,6 @@
 # O botão é um projeto super simples,porém, muito útil!
 
-**Abaixo você verá imagens do funcionamento do botão**
+  **Imagens do projeto em funcionamento**
 
 ## O botão antes de ser pressionado:
 <img src="/SCREENSHOTS/Screenshot1.png" height="460" width="820">
