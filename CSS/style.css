@@ -1,0 +1,32 @@
+summary {
+	display: inline-block;
+	padding: 15px 25px;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 24px;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	outline: 0;
+	background-image: linear-gradient(to left,#239f40,#8fc730);
+	border: none;
+	border-radius: 15px;
+	color: #fff;
+	box-shadow: 0 4px #2dbb4e;
+}
+summary:hover {
+	background: #8fc730;
+	padding: 14px 24px;
+	border: none;
+	color: #fff;
+	box-shadow: 0 4px #78a728;
+}
+
+summary:active{
+	background: #84bd22;
+	padding: 13px 23px;
+	border: none;
+	color: rgb(250, 250, 250);
+	box-shadow: none;
+	
+}
+
