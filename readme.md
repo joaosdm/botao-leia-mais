@@ -2,7 +2,7 @@
 
   **Imagens do projeto em funcionamento**
 
-## O botão antes de ser pressionado:
+### O botão antes de ser pressionado:
 <img src="/SCREENSHOTS/Screenshot1.png" height="460" width="820">
 
 ## Ao passar o mouse sobre:
