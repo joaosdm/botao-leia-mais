@@ -2,6 +2,7 @@
 <br>
 <a>O botão foi feito com apenas HTML e CSS. É um projeto super simples,porém, muito útil!</a>
 <br>
+<br>
 <strong>Abaixo você verá imagens do funcionamento do botão!</strong>
 <br>
 <div class="img">
