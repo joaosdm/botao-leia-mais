@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <a>O botão foi feito com apenas HTML e CSS. É um projeto super simples,porém, muito útil!</a>
 <br>
 <br>
@@ -19,3 +21,5 @@
 </ol>
 </div>
 Usar um arquivo <em>CSS</em> e outro <em>HTML</em> é opcional! Você pode usar apenar um arquivo <em>HTML</em> e dentro dele usar a tag <strong>style</strong> para inserir funções <em>CSS</em>.
+
+</html>
